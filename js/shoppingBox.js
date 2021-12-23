@@ -75,7 +75,7 @@ $(document).ready(function () {
 
     const xhttp = new XMLHttpRequest();
 
-    xhttp.open('GET', '../stock.json', true);
+    xhttp.open('GET', '../stock/stock.json', true);
 
     xhttp.send();
 
