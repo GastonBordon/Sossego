@@ -1,0 +1,2 @@
+# Sossego
+Sossego, Tienda virtual
