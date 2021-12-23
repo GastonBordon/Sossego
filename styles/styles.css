@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    /* Navbar */
+.logo {
+    height: 70px;
+}
+.navbar-dark .navbar-brand {
+    display: block;
+    padding: 8px, 16px;
+
+}
+
+.cart4 {
+    font-size: 2rem;
+    color: white;
+}
+    /* Estilos Genéricos */
+
+header {
+    width: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main {
+    max-width: 1600px;
+}
+
+h1 {
+    margin-top: 3rem;
+    text-align: center;
+    color: #007bff;
+}
+
+h2 {
+    margin: 3rem;
+    text-align: center;
+    color: #007bff;
+    display: block;
+}
+
+    /* Cards de Productos */
+
+.cards__Productos {
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 1rem;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-text {
+    color: red;
+    font-weight: 600;
+}
+
+
+.width-18 {
+    width: 18rem;
+}
+
+/* Carrito de Compras */
+
+#table-body {
+    font-weight: 500;
+}
+.shoppingBoxProductQuantity {
+    max-width: 50px;
+    text-align: center;
+}
+
+.botonRojo {
+    display: flex;
+    justify-content:right;
+}
+
+.totalCompra {
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 1.2rem;
+}

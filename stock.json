@@ -1,0 +1,67 @@
+{"stock":[
+     {
+        "id": 1,
+        "alt": "Imagen de 3 pantalones",
+        "description": "Pantalones Artesanales",
+        "precio": 3000,
+        "buttonLabel": "Agregar",
+        "srcs": [
+            "img/pantalon.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "alt": "Topcitos Artesanales",
+        "description": "Topcitos Artesanales",
+        "precio": 1500,
+        "buttonLabel": "Agregar",
+        "srcs": [
+            "img/top.png",
+            "img/top2.png",
+            "img/top3.png"
+        ]
+    },
+    {
+        "id": 3,
+        "alt": "Remeras Artesanales",
+        "description": "Remeras Artesanales",
+        "precio": 2000,
+        "buttonLabel": "Agregar",
+        "srcs": [
+            "img/remera.png",
+            "img/remera2.png",
+            "img/remera3.png"
+        ]
+    },
+    {
+        "id": 4,
+        "alt": "Cuellos Polar Soft Artesanales",
+        "description": "Cuellos Polar Soft Artesanales",
+        "precio": 2500,
+        "buttonLabel": "Agregar",
+        "srcs": [
+            "img/cuelloPolar.png",
+            "img/cuelloPolar2.png"
+        ]
+    },
+    {
+        "id": 5,
+        "alt": "Mantalmohadones Artesanales",
+        "description": "Mantalmohadones Artesanales",
+        "precio": 2500,
+        "buttonLabel": "Agregar",
+        "srcs": [
+            "img/mantalmohadon.png",
+            "img/mantalmohadon2.png"
+        ]
+    },
+    {
+        "id": 6,
+        "alt": "Riñoneras Artesanales",
+        "description": "Riñoneras Artesanales",
+        "precio": 1799,
+        "buttonLabel": "Agregar",
+        "srcs": [
+            "img/riñoneras.png"
+        ]
+    }]}
